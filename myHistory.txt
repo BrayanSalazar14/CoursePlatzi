@@ -1,5 +1,19 @@
-Mi nombre es Brayan
+Nombre: Brayan Salazar
 
-Tengo 20 años
+Edad: 21 años
 
-Estoy realizando el curso de platzi de Git y Github
+Descripción Personal:
+Soy Brayan Salazar, un joven de 21 años apasionado por la programación. Desde muy temprana edad, me sumergí en el fascinante mundo de la tecnología y la informática, y he encontrado en la programación mi verdadera pasión. Mi interés por resolver problemas y crear soluciones innovadoras me ha llevado a explorar diversos lenguajes de programación y proyectos de desarrollo.
+
+Trayectoria en la Programación:
+A lo largo de mi vida, he adquirido habilidades sólidas en programación, lo que me ha permitido enfrentar desafíos técnicos y trabajar en proyectos emocionantes. Mi curiosidad y determinación me han llevado a aprender constantemente, manteniéndome al día con las últimas tendencias tecnológicas y participando en comunidades de desarrollo.
+
+Metas Futuras:
+Como programador apasionado, mi objetivo es seguir creciendo en esta área. Planeo contribuir al desarrollo de software innovador, colaborar en proyectos de código abierto y continuar aprendiendo sobre nuevas tecnologías. Mi visión es utilizar mis habilidades para crear un impacto positivo en el mundo a través de la tecnología.
+
+Intereses Adicionales:
+Además de la programación, disfruto de otros pasatiempos como [mencionar tus otros intereses si los tienes, como deportes, música, lectura, etc.]. Estos intereses complementan mi vida y me brindan un equilibrio entre el mundo digital y el mundo real.
+
+En resumen, soy Brayan Salazar, un joven de 21 años apasionado por la programación, en constante búsqueda de nuevos desafíos y oportunidades para crecer como profesional en el campo de la tecnología. Mi compromiso con el aprendizaje y la innovación me impulsa a alcanzar nuevas metas y contribuir al mundo de la programación de manera significativa.
+
+Espero que esta descripción te represente adecuadamente y refleje tus intereses y pasiones. ¡Sigue adelante con tu viaje en la programación y alcanza tus metas con determinación!
