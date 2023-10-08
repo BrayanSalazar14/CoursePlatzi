@@ -1,2 +1,2 @@
-# CoursePlatzi
-Proyecto para el curso de Git y GitHub de Platzi
+# CourseGit-GitHub
+Proyecto de Plazti para el curso de Git y GitHub
