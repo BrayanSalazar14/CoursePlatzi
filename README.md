@@ -1,3 +1,4 @@
+# CourseGit-GitHub💻
 Proyecto de Plazti para el curso de Git y GitHub
 
 Este proyecto se desarrolla como parte del curso de Git y GitHub de Platzi y tiene como objetivo principal enseñarte las habilidades esenciales de control de versiones y colaboración en un entorno de desarrollo web. A través de este proyecto, aprenderás cómo utilizar Git y GitHub de manera efectiva para gestionar y colaborar en un blog personal.
@@ -10,7 +11,7 @@ HTML llamado "Artículo": Este archivo HTML representa un artículo de tu blog. 
 
 Archivo TXT sobre ti: Este archivo de texto contiene información personal sobre ti y tu blog. A través del curso, aprenderás a gestionar este archivo en Git, realizar cambios y mantener un registro de versiones.
 
-#Aprendizaje 📖:
+# Aprendizaje 📖:
 
 Configuración de un repositorio Git local.
 Inicialización de un repositorio en GitHub.
