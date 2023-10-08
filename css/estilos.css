@@ -42,3 +42,9 @@ body
     font-size: 0.8em;
 
 }
+
+img
+{
+   border: 1px solid #33a;
+   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+}
