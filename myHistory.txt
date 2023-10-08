@@ -2,4 +2,4 @@ Mi nombre es Brayan
 
 Tengo 20 años
 
-Me gusta programar y comer salchi
+Estoy realizando el curso de platzi de Git y Github
