@@ -1,7 +1,7 @@
-#CourseGit-GitHub💻
+# CourseGit-GitHub💻
 *Proyecto de Plazti para el curso de Git y GitHub*
 
-> Este proyecto se desarrolla como parte del curso de Git y GitHub de Platzi y tiene como objetivo principal enseñarte las habilidades esenciales de control de versiones y colaboración en un entorno de desarrollo web. A través de este proyecto, aprenderás cómo utilizar Git y GitHub de manera efectiva para gestionar y colaborar en un blog personal.
+> *Este proyecto se desarrolla como parte del curso de Git y GitHub de Platzi y tiene como objetivo principal enseñarte las habilidades esenciales de control de versiones y colaboración en un entorno de desarrollo web. A través de este proyecto, aprenderás cómo utilizar Git y GitHub de manera efectiva para gestionar y colaborar en un blog personal.*
 
 # Contenido🖊️:
 
